@@ -2,6 +2,9 @@
 
 This is the repository for [mamacarnivore.com](https://mamacarnivore.com), a personal website showcasing various resources and tools related to carnivore nutrition and non-toxic living.
 
+Built by [@meimakes](https://x.com/meimakes)
+
+
 ## How It Works
 
 This website is automatically built and deployed using GitHub's official Pages deployment workflow. The build process:
